@@ -528,11 +528,11 @@ ninja.data = [{
           window.open("https://scholar.google.com/citations?user=nQt8CG8AAAAJ", "_blank");
         },
       },{
-        id: 'social-custom_social',
-        title: 'Custom_social',
+        id: 'social-linkedin',
+        title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/tanvirahmedhk/", "_blank");
+          window.open("https://www.linkedin.com/in/tanvirahmedhk", "_blank");
         },
       },{
       id: 'light-theme',
