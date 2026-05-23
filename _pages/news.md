@@ -1,7 +1,7 @@
 ---
 layout: page
-title: highlights
-permalink: /highlights/
+title: news
+permalink: /news/
 nav: true
 nav_order: 2
 ---
