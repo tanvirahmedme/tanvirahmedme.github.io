@@ -10,4 +10,4 @@ My research was featured in **Hillviews Magazine**, Texas State University's off
 
 [Read the full article](https://hillviews.txst.edu/articles/2026/intelligent-agriculture.html)
 
-<img src="/assets/img/hillviews.jpg" alt="Tanvir Ahmed featured in Hillviews Magazine" style="max-width:100%; height:auto; border-radius:8px;">
+<img src="/assets/img/hillviews2.jpg" alt="Tanvir Ahmed featured in Hillviews Magazine" style="max-width:100%; height:auto; border-radius:8px;">
