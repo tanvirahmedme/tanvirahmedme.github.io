@@ -437,7 +437,12 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "news-featured-in-hillviews-magazine",
+          section: "News",},{id: "news-graduated-with-msc-from-texas-state-university",
+          title: 'Graduated with MSc from Texas State University!',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2025-08-02-msc-graduation/";
+            },},{id: "news-featured-in-hillviews-magazine",
           title: 'Featured in Hillviews Magazine!',
           description: "",
           section: "News",handler: () => {
