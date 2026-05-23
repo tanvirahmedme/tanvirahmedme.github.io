@@ -442,6 +442,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2026-02-19-hillviews-feature/";
+            },},{id: "news-texas-state-university-featured-my-research",
+          title: 'Texas State University Featured My Research!',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2026-05-21-txst-social-feature/";
             },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
