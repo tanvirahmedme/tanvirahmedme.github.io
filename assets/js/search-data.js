@@ -438,7 +438,7 @@ ninja.data = [{
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
           section: "News",},{id: "news-featured-in-hillviews-magazine",
-          title: 'Featured in Hillviews Magazine',
+          title: 'Featured in Hillviews Magazine!',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2026-02-19-hillviews-feature/";
