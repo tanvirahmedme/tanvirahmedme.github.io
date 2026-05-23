@@ -426,7 +426,10 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-graduated-with-msc-from-texas-state-university",
+            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
+          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          description: "",
+          section: "News",},{id: "news-graduated-with-msc-from-texas-state-university",
           title: 'Graduated with MSc from Texas State University!',
           description: "",
           section: "News",handler: () => {
