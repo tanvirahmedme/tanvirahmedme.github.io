@@ -465,6 +465,11 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-smart-cattle-collar-wearable-sensing-ml",
+          title: 'Smart Cattle Collar — Wearable Sensing + ML',
+          description: "A custom low-power wearable that predicts cattle behavior from motion and GPS data — designed end-to-end from PCB to a deployed real-time ML dashboard.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/cattle_behavior_collar/";
             },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
