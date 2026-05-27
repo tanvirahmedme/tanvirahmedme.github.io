@@ -1,0 +1,252 @@
+cv:
+  name: Tanvir Ahmed
+  label: PhD Researcher — Robotics, Wearable Sensing & Applied ML
+  email: tanvirahmedmcl@gmail.com
+  location: San Marcos, TX
+  image: ""
+  summary: >-
+    Mechanical & Manufacturing Engineering PhD researcher who builds intelligent
+    cyber-physical systems end to end — from custom PCB and embedded firmware to
+    field deployment and applied machine learning. Focused on wearable sensing,
+    agricultural robotics, and getting real systems working in the real world.
+
+  social_networks:
+    - network: LinkedIn
+      username: tanvirahmedhk
+    - network: GitHub
+      username: tanvirahmedme
+
+  address:
+    street: North LBJ Dr.
+    city: San Marcos
+    region: Texas
+    postalCode: TX 78666
+    countryCode: US
+
+  sections:
+    Education:
+      - institution: Texas State University
+        location: San Marcos, TX
+        url: https://www.txstate.edu/
+        area: Mechanical and Manufacturing Engineering
+        studyType: PhD
+        start_date: 2025-08
+        end_date: 2028-12
+        score: "GPA: 4.00/4.00"
+        highlights:
+          - "Automation and Robotics Lab — Advisor: Dr. Heping Chen"
+          - "Research in agricultural robotics, wearable sensing, and applied machine learning"
+
+      - institution: Texas State University
+        location: San Marcos, TX
+        url: https://www.txstate.edu/
+        area: Mechanical and Manufacturing Engineering
+        studyType: MS
+        start_date: 2023-08
+        end_date: 2025-08
+        score: "GPA: 4.00/4.00"
+        highlights:
+          - "Thesis: Development of a wearable sensor unit for cattle behavior prediction using machine learning"
+
+      - institution: Islamic University of Technology
+        location: Dhaka, Bangladesh
+        area: Mechanical Engineering
+        studyType: BSc
+        start_date: 2015-01
+        end_date: 2018-11
+        score: "GPA: 3.39/4.00"
+        highlights:
+          - "Thesis: Activated carbon development from agricultural waste for cost-effective water purification"
+
+    Experience:
+      - company: Ingram School of Engineering, Texas State University
+        position: Graduate Instruction / Research / Development Assistant
+        location: San Marcos, TX
+        start_date: 2023-08
+        end_date: now
+        summary: >-
+          Teaching, research, and lab support across automation, control, and
+          robotics courses.
+        highlights:
+          - "Graded and proctored work for 200+ students across 7 undergraduate and graduate courses and labs"
+          - "Taught control and automation systems — PID control, FANUC and ABB robotic arms, and PLC experiments focused on sensor integration and device communication"
+          - "Contributed to 3 major research projects under Dr. Chen, resulting in multiple publications"
+
+      - company: Monochrome Limited
+        position: Co-founder & Project Manager
+        location: Dhaka, Bangladesh
+        url: https://www.monochromelimited.com/
+        start_date: 2021-07
+        end_date: 2023-08
+        summary: >-
+          Co-founded and ran a video production company serving clients including
+          TikTok, InterContinental Hotels & Resorts, Chevron, and Yamaha.
+        highlights:
+          - "Led a 7-member team, coordinating project execution, task delegation, and cross-functional collaboration"
+          - "Negotiated and managed vendor contracts and identified cost-optimization opportunities"
+          - "Oversaw company operations including financial management, tax compliance, and investor communication"
+
+      - company: Codesign Limited
+        position: Digital Content Producer & Editor
+        location: Dhaka, Bangladesh
+        start_date: 2019-05
+        end_date: 2020-05
+        highlights:
+          - "Managed end-to-end production workflows — camera, lighting, audio, and storyboarding — for technically consistent output"
+          - "Diagnosed business needs and implemented strategic solutions to improve project outcomes"
+
+      - company: Millennium Service Center Limited
+        position: Maintenance Intern
+        location: Dhaka, Bangladesh
+        start_date: 2019-01
+        end_date: 2019-03
+        highlights:
+          - "Supported automotive maintenance tasks and collaborated with training vendors on maintenance programs"
+
+    "Research Projects":
+      - name: Wearable Smart Collar for Cattle Behavior Prediction
+        summary: >-
+          USDA-NIFA funded. Custom-designed wearable collar (PCB, firmware, 3D-printed
+          enclosure) that classifies cattle behavior from IMU and GNSS data. Deployed
+          on cattle at Freeman Ranch; best model (Random Forest + FFT + SMOTE) reached
+          86.2% accuracy, served live via a FastAPI dashboard.
+        highlights:
+          - "End-to-end: schematic & PCB design, embedded firmware, enclosure, ML pipeline, and deployment"
+        start_date: 2023-08
+        end_date: now
+
+      - name: Autonomous Animal Care Robot (AnimalCareBot)
+        summary: >-
+          USDA-NIFA funded. Passive self-righting robot design and autonomous
+          navigation/control using SLAM for cattle management at Freeman Ranch.
+        highlights:
+          - "Self-righting mechanical design and SLAM-based autonomous navigation"
+        start_date: 2024-01
+        end_date: now
+
+      - name: Human Motion Gait Analysis Using IMU Sensors
+        summary: >-
+          USDA-NIFA funded. IMU sensor fusion and activity-recognition algorithms to
+          model human movement patterns for health-monitoring applications.
+        highlights:
+          - "Published at IEEE CYBER 2024"
+        start_date: 2023-08
+        end_date: 2024-07
+
+    Publications:
+      - title: "Integrated Trajectory and Resource Allocation for Air–Ground Networks"
+        authors:
+          - "M. M. Alam"
+          - "M. A. Kabir"
+          - "M. F. A. Omey"
+          - "S. Ahmed"
+          - "T. Ahmed"
+          - "M. Y. Arafat"
+        publisher: "IEEE Open Journal of the Communications Society"
+        releaseDate: 2026
+
+      - title: "A Review of IoT for Animal Health Farming"
+        authors:
+          - "T. Ahmed"
+          - "M. S. U. Khan"
+          - "H. Chen"
+        publisher: "IEEE CYBER"
+        releaseDate: 2025
+
+      - title: "A Review of SLAM Techniques for Agricultural Robotics: Challenges, Architectures, and Future Directions"
+        authors:
+          - "M. S. U. Khan"
+          - "T. Ahmed"
+          - "H. Chen"
+        publisher: "IEEE CYBER"
+        releaseDate: 2025
+
+      - title: "Magnetic Properties Evaluation of Polyamide 4.6 Bonded Magnetic Composite"
+        authors:
+          - "P. Karkhanis"
+          - "O. K. Arigbabowo"
+          - "A. J. Gonzalez"
+          - "S. Inamdar"
+          - "T. Ahmed"
+          - "A. Herrera"
+          - "W. J. Geerts"
+          - "J. S. Tate"
+        publisher: "SAMPE Conference"
+        releaseDate: 2024
+
+      - title: "Human Motion Gait Analysis Using IMU Sensors"
+        authors:
+          - "T. Ahmed"
+          - "H. Chen"
+          - "P. Panta"
+        publisher: "IEEE CYBER"
+        releaseDate: 2024
+        url: https://doi.org/10.1109/CYBER63482.2024.10748719
+
+      - title: "A Blockchain-Based Scheme for Sybil Attack Detection in Underwater Wireless Sensor Networks"
+        authors:
+          - "M. M. Arifeen"
+          - "A. Al Mamun"
+          - "T. Ahmed"
+          - "et al."
+        publisher: "Springer AISC"
+        releaseDate: 2021
+        url: https://doi.org/10.1007/978-981-33-4673-4_37
+
+    Awards:
+      - title: Graduate Merit Fellowship
+        awarder: Texas State University
+        date: 2025
+        summary: "Awarded Fall 2025 and Spring 2025."
+
+      - title: Featured Research Profile — "Intelligent Agriculture"
+        awarder: TXST Hillviews Magazine
+        date: 2026
+
+      - title: Phi Kappa Phi & Alpha Chi National Honor Societies
+        awarder: Top 10% academic performance
+
+      - title: Sole Departmental Nominee — CoSE Advisory Board Meeting
+        awarder: Texas State University
+        date: 2025
+
+      - title: Full Tuition Waiver & OIC Scholarship
+        awarder: Islamic University of Technology, Bangladesh
+
+    Skills:
+      - name: Embedded & Hardware
+        icon: fa-solid fa-microchip
+        keywords: "KiCad (PCB Design), Arduino, IMU & GNSS sensor integration, embedded firmware, 3D printing"
+      - name: Machine Learning
+        icon: fa-solid fa-brain
+        keywords: "Python, Scikit-learn, TensorFlow, NumPy, Pandas, time-series & sensor-data modeling"
+      - name: Robotics & Control
+        icon: fa-solid fa-robot
+        keywords: "SLAM, autonomous navigation, PID control, FANUC & ABB robotic arms, PLCs"
+      - name: CAD / CAM / Simulation
+        icon: fa-solid fa-cube
+        keywords: "SolidWorks, Autodesk Fusion 360, Mastercam (G-code), multi-axis machining"
+      - name: Tools & Computing
+        icon: fa-solid fa-terminal
+        keywords: "Linux, Bash, High-Performance Computing, MATLAB, LabVIEW, Power BI"
+
+    Interests:
+      - name: Research Focus
+        icon: fa-solid fa-tag
+        keywords: "Wearable Sensor Systems, Applied Machine Learning, Precision Agriculture, Agricultural Robotics, Cyber-Physical Systems"
+
+    Certificates:
+      - name: HPC (High-Performance Computing) Summer Workshop
+        date: 2024
+        issuer: TXST Center for Analytics and Data Science
+        icon: fa-solid fa-server
+      - name: AI/ML Education Series
+        date: 2024
+        issuer: TXST Center for Analytics and Data Science
+        icon: fa-solid fa-brain
+      - name: Applications for Data Science & AI
+        issuer: TXST CADS & Dept. of Agricultural Sciences
+        icon: fa-solid fa-database
+      - name: Certified Supply Chain Analyst (CSCA)
+        issuer: ISCEA
+        icon: fa-solid fa-boxes-stacked
