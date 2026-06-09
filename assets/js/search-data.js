@@ -420,9 +420,9 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2026-05-21-txst-social-feature/";
-            },},{id: "projects-smart-cattle-collar-wearable-sensing-ml",
-          title: 'Smart Cattle Collar — Wearable Sensing + ML',
-          description: "A custom low-power wearable that predicts cattle behavior from motion and GPS data — designed end-to-end from PCB to a deployed real-time ML dashboard.",
+            },},{id: "projects-smart-cattle-collar-wearable-sensing-and-ml",
+          title: 'Smart Cattle Collar, Wearable Sensing and ML',
+          description: "A custom low-power wearable that predicts cattle behavior from motion and GPS data, designed end to end from PCB to a deployed real-time ML dashboard.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "teachings-data-science-fundamentals",
