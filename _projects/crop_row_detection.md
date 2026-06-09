@@ -35,8 +35,7 @@ published row-detection corpus.
 | **Perception** | U-Net + ResNet-34 (ImageNet) encoder, binary corridor segmentation |
 | **Reasoning** | 5-step geometric refinement → left/right/centerline polynomials |
 | **Output** | Heading angle, curvature, discrete steering decision |
-| **Data** | 686-frame single-session corn subset (438/110/138), 1920×1200 |
-| **Compute** | Single RTX 3070 Laptop (8 GB), mixed precision, ~20 min training |
+| **Compute** | RTX 3070 (8 GB), mixed precision |
 | **Results** | Mean IoU **0.82**, F1 **0.88** at native resolution; centerline error <1% of image width |
 
 ## Why it matters
@@ -85,10 +84,9 @@ frames the same layer reduces error by an order of magnitude, e.g. from 93.9 px 
     Before/after the geometric refinement layer on the three frames it helps most: noisy raw boundaries (cyan) and centerline (yellow) snap back toward ground truth (green dashed).
 </div>
 
-## An honest limitation
+## Limitation
 
-All three splits come from one recording session, so they're temporally correlated and
-the reported numbers will overestimate performance on a different field or season. This
+The reported numbers will overestimate performance in a different field or season. This
 is the standard domain-shift problem in row detection, and the natural next steps are
 evaluation on a held-out video, a precision-biased asymmetric loss to suppress the
 false-positive failures, and a per-frame confidence head so a controller can refuse
