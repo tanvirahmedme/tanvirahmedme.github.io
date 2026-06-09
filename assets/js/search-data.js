@@ -425,6 +425,11 @@ ninja.data = [{
           description: "A custom low-power wearable that predicts cattle behavior from motion and GPS data, designed end to end from PCB to a deployed real-time ML dashboard.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
+            },},{id: "projects-crop-row-detection-segmentation-to-navigation",
+          title: 'Crop Row Detection, Segmentation to Navigation',
+          description: "A hybrid perception-and-reasoning pipeline that finds the drivable corridor between corn rows from a single camera and turns it into steering output.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/crop_row_detection/";
             },},{id: "projects-imu-gait-analysis-walking-vs-running",
           title: 'IMU Gait Analysis, Walking vs. Running',
           description: "A wearable dual-IMU setup that captures and compares the biomechanics of walking and running from foot-mounted motion sensors.",
