@@ -425,6 +425,11 @@ ninja.data = [{
           description: "A custom low-power wearable that predicts cattle behavior from motion and GPS data, designed end to end from PCB to a deployed real-time ML dashboard.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
+            },},{id: "projects-3d-printable-bonded-magnetic-composite",
+          title: '3D-Printable Bonded Magnetic Composite',
+          description: "A strontium-ferrite / polyamide 4.6 composite filament made by twin-screw extrusion for fused-filament 3D printing of magnetic parts, characterized for microstructure, thermal stability, and magnetic anisotropy.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/bonded_magnetic_composite/";
             },},{id: "projects-crop-row-detection-segmentation-to-navigation",
           title: 'Crop Row Detection, Segmentation to Navigation',
           description: "A hybrid perception-and-reasoning pipeline that finds the drivable corridor between corn rows from a single camera and turns it into steering output.",
