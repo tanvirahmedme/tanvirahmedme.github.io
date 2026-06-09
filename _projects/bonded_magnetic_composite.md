@@ -16,7 +16,7 @@ and magnetic performance. The motivation is a cheaper, more flexible route to ma
 components, like small motors, generators, and Halbach arrays for MRI, than the
 expensive tooling that injection-molded or sintered magnets require.
 
-> **My role:** *co-author —  twin screw extrusion, data analysis, manuscript *
+> **My role:** co-author —  twin screw extrusion, data analysis, manuscript 
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-12 mt-3 mt-md-0">
