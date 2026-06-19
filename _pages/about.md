@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Student, Mechanical & Manufacturing Engineering, <a href="https://www.txst.edu/">Texas State University</a>
+subtitle: Doctoral Researcher, Mechanical & Manufacturing Engineering, <a href="https://www.txst.edu/">Texas State University</a>
 
 profile:
   align: right
@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a PhD student in the [Ingram School of Engineering](https://www.engineering.txst.edu/) at Texas State University, working on precision livestock technology and autonomous agricultural robotics. My research combines wearable sensor systems, computer vision, and machine learning to monitor cattle health and enable autonomous navigation in field environments.
+I am a doctoral researcher in the [Ingram School of Engineering](https://www.engineering.txst.edu/) at Texas State University, working on precision livestock technology and autonomous agricultural robotics. My research combines wearable sensor systems, computer vision, and machine learning to monitor cattle health and enable autonomous navigation in field environments.
 
 My current work spans wearable sensor systems for real-time cattle health monitoring, deep-learning–based crop row detection and autonomous navigation, and machine learning for agricultural automation. I also serve as a Teaching Assistant in the Department of Manufacturing Engineering.
 
